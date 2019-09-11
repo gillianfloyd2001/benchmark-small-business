@@ -5,9 +5,6 @@ body{
 
 .container {
     min-height: 100vh;
-    background-image:url("https://images.unsplash.com/photo-1555526148-0fa555bb2e78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 .header {
@@ -24,4 +21,12 @@ body{
     justify-content: center;
     align-items: center;
 
+}
+
+.about__information {
+    min-height: 100vh;
+    background-color: white;
+    color: #de45ca;
+    font-size: 25px;
+    line-height: 2.5;
 }
