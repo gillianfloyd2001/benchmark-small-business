@@ -35,3 +35,13 @@ h4 {
     border: 1px solid black;
     margin: 0;
 }
+
+ul {
+    display: flex;
+}
+
+li {
+    flex-direction: column;
+    list-style: none;
+    margin: auto;
+}
