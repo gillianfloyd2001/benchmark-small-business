@@ -12,7 +12,14 @@ body{
 
 .header {
     min-height: 100px;
-    background-color: antiquewhite;
+
+    /* colors and fonts */
+
+    background-color: deeppink;
+    color: white;
+
+    /* layout */
+
     display: flex; 
     justify-content: center;
     align-items: center;
