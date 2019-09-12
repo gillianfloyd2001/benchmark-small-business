@@ -92,9 +92,29 @@ ul.orinigal-list {
     display: inline-block;
 }
 
-.first-special-box {
-   height: 200px;
-   width: 200px;
-   background-color: aqua; 
-   
+.special-box {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: aqua; 
+ }
+
+ .left {
+     left: 0;
+ }
+
+ .right {
+     right: 0;
+ }
+
+ .top {
+    top: 0;
+ }
+
+ .bottom{
+    bottom: 0;
+ }
+
+main {
+    position: relative;
 }
