@@ -95,12 +95,15 @@ ul.orinigal-list {
 .special-box {
     position: absolute;
     height: 200px;
-    width: 200px;
+    width: 165px;
     background-color: aqua; 
  }
 
  .left {
      left: 0;
+     background-image: url("https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+     background-size: 150px;
+     background-repeat: no-repeat;
  }
 
  .right {
