@@ -48,7 +48,7 @@ li {
 
 
 .container__menu {
-    min-height: 100vh;
+    /* min-height: 100vh; */
     margin: 0;
 }
 
@@ -66,9 +66,31 @@ h1 {
 }
 
 .menu__information {
-    min-height: 100vh;
+    /* min-height: 100vh; */
     background-color: white;
     color: #de45ca;
     font-size: 25px;
     line-height: 2.5;
+}
+
+.orinigal_cupcakes {
+    text-align: center;
+}
+
+
+ul.orinigal-list {
+    height: 1000px;
+    width: 600px;
+    /* margin: 20rem; */
+    color: deeppink;
+    font-size: 25px;
+    border: 3px solid black;
+    background-image: url("https://images.unsplash.com/photo-1521309918586-feb7aa79a61b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+    
+}
+.cupcake_list {
+    display: inline-block;
 }
