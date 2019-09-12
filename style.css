@@ -91,3 +91,10 @@ ul.orinigal-list {
 .cupcake_list {
     display: inline-block;
 }
+
+.first-special-box {
+   height: 200px;
+   width: 200px;
+   background-color: aqua; 
+   margin-top: 0;
+}
