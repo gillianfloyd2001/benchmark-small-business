@@ -1,3 +1,5 @@
+/* index page */
+
 body{
     margin: 0;
 }
@@ -32,9 +34,10 @@ body{
     margin-left: 2rem;
 }
 h4 {
+
     text-align: center;
     border: 1px solid black;
-    margin: 0;
+    margin: auto;
 }
 
 ul {
@@ -47,6 +50,7 @@ li {
     margin: auto;
 }
 
+/* menu page*/
 
 .container__menu {
     margin: 0;
@@ -141,6 +145,8 @@ ul.orinigal-list {
 main {
     position: relative;
 }
+
+/* contact page */
 
 .contact-header {
     min-height: 100px;
