@@ -152,13 +152,47 @@ main {
     line-height: 2.5;
 }
 
+.background-image {
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1565060217436-93f969646676?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=633&q=80");
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-position: bottom;
+    
+}
+
+
 .box-1 {
+    margin-top: 0;
     height: 100px;
-    /*width: 100px;*/
-    background-color: skyblue;
+    background-color:rgba(255, 255, 255, .3);
     color: black;
     font-size: 22px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.box-2 {
+    height: 100px;
+    background-color:rgba(255, 255, 255, .3);
+    color: black;
+    font-size: 22px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-3 {
+    height: 150px;
+
+    background-color: rgba(255, 255, 255, .3);
+    color: black;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
 }
