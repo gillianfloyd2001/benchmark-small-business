@@ -144,3 +144,10 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+.contact__information {
+    background-color: white;
+    color: #de45ca;
+    font-size: 25px;
+    line-height: 2.5;
+}
