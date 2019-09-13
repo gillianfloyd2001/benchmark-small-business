@@ -151,12 +151,14 @@ main {
     align-items: center;
 }
 
+
 .contact__information {
     background-color: white;
     color: #de45ca;
     font-size: 25px;
     line-height: 2.5;
 }
+
 
 .background-image {
     height: 100vh;
@@ -179,6 +181,7 @@ main {
     align-items: center;
 }
 
+
 .box-2 {
     height: 100px;
     background-color:rgba(255, 255, 255, .3);
@@ -189,6 +192,7 @@ main {
     justify-content: center;
     align-items: center;
 }
+
 
 .box-3 {
     height: 150px;
