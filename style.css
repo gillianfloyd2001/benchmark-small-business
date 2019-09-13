@@ -151,3 +151,14 @@ main {
     font-size: 25px;
     line-height: 2.5;
 }
+
+.box-1 {
+    height: 100px;
+    /*width: 100px;*/
+    background-color: skyblue;
+    color: black;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
