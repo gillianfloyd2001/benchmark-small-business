@@ -45,6 +45,8 @@ ul {
 }
 
 li {
+    font-size: 32px;
+    text-align: center;
     flex-direction: column;
     list-style: none;
     margin: auto;
@@ -67,6 +69,9 @@ h1 {
     justify-content: center;
     align-items: center;
     
+}
+.menu {
+    font-size: 28px;
 }
 
 .menu__information {
@@ -163,4 +168,8 @@ ul.orinigal-list {
     flex-wrap: wrap;
     align-items: center;
     align-content: center;
+}
+.images {
+    position: absolute;
+    top: 50rem;
 }
