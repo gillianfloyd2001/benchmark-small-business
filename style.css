@@ -2,7 +2,7 @@
 
 body{
     margin: 0;
-    background-color: floralwhite;
+    
 }
 
 
@@ -33,7 +33,7 @@ body{
     font-size: 25px;
     line-height: 1.5;
     margin-left: 2rem;
-    background-color: floralwhite;
+    
 }
 h4 {
     
@@ -55,7 +55,7 @@ li {
 }
 
 a {
-    color:  rgb(18, 255, 235);
+    color:  rgb(28, 167, 155);
 }
 /* menu page*/
 
