@@ -17,6 +17,7 @@ body{
 
     background-color: deeppink;
     color: white;
+    font-family: cursive;
 
     /* layout */
 
@@ -30,6 +31,7 @@ body{
     min-height: 100vh;
     background-color: white;
     color: #de45ca;
+    font-family: fantasy;
     font-size: 25px;
     line-height: 1.5;
     margin-left: 2rem;
@@ -56,6 +58,7 @@ li {
 
 a {
     color:  rgb(28, 167, 155);
+    font-family: sans-serif;
 }
 /* menu page*/
 
@@ -67,6 +70,7 @@ h1 {
     margin: 0;
 }
 .header__menu {
+    font-family: cursive;
     min-height: 100px;
     background-color: deeppink;
     color: white;
@@ -77,12 +81,14 @@ h1 {
 }
 .menu {
     font-size: 28px;
+    
 }
 
 .menu__information {
     background-color: white;
     color: #de45ca;
     font-size: 25px;
+    font-family: sans-serif;
     line-height: 2.5;
 }
 
@@ -96,7 +102,8 @@ ul.orinigal-list {
     width: 600px;
     color: deeppink;
     font-size: 25px;
-    border: 3px solid rgb(18, 255, 235);
+    font-family: fantasy;
+    border: 3px solid rgb(28, 167, 155);
     background-image: url("https://images.unsplash.com/photo-1521309918586-feb7aa79a61b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
     display: inline-block;
     justify-content: center;
@@ -111,6 +118,7 @@ ul.orinigal-list {
 /* contact page */
 
 .contact-header {
+    font-family: cursive;
     min-height: 100px;
     background-color: deeppink;
     color: white;
@@ -124,6 +132,7 @@ ul.orinigal-list {
     background-color: white;
     color: #de45ca;
     font-size: 25px;
+    font-family: fantasy;
     line-height: 2.5;
 }
 
