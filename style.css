@@ -2,6 +2,7 @@
 
 body{
     margin: 0;
+    background-color: floralwhite;
 }
 
 
@@ -32,9 +33,10 @@ body{
     font-size: 25px;
     line-height: 1.5;
     margin-left: 2rem;
+    background-color: floralwhite;
 }
 h4 {
-
+    
     text-align: center;
     border: 1px solid black;
     margin: auto;
@@ -52,6 +54,9 @@ li {
     margin: auto;
 }
 
+a {
+    color:  rgb(18, 255, 235);
+}
 /* menu page*/
 
 .container__menu {
